@@ -27,7 +27,7 @@ This app will run in the browser using HTML, CSS, JavaScript. Also used 2 server
 
 [Bootcamp 1st Project Repository](https://github.com/KiranPandranki17/Bootcamp-1st-Project.git)
 
-[Live Demo Link](https://kiranpandranki17.github.io/Bootcamp-1st-Project/)
+[Live Demo Link](https://yusufdev15.github.io/Cinepulse-Project-1/)
 
 
 ## License
