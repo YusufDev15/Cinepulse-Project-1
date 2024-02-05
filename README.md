@@ -5,7 +5,7 @@ As movie enthusiasts, we would like to explore a wide range of movies and series
 ## Installation
 This app will run in the browser using HTML, CSS, JavaScript. Also used 2 server side APIS in TMDB and OMDB.
 ## Screenshots
-![C:\Users\Yusuf\OneDrive\Desktop\class\Challenges\Cinepulse-Project-1\assets\images\screencapture-yusufdev15-github-io-Cinepulse-Project-1-Homepage-homePage-html-2024-02-05-15_49_13.png](https://github.com/KiranPandranki17/Bootcamp-1st-Project/assets/140180379/6c6a5e95-33bb-44ed-a37e-4ee8fe195015)
+![App Screenshot](./assets/images/screencapture-yusufdev15-github-io-Cinepulse-Project-1-Homepage-homePage-html-2024-02-05-15_49_13.png)
 
 ## Credits
 - https://fontawesome.com/
